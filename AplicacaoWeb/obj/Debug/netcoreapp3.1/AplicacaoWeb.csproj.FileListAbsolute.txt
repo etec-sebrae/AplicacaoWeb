@@ -38,3 +38,15 @@ C:\Users\frana\source\repos\AplicacaoWeb\AplicacaoWeb\obj\Debug\netcoreapp3.1\Ap
 C:\Users\frana\source\repos\AplicacaoWeb\AplicacaoWeb\obj\Debug\netcoreapp3.1\AplicacaoWeb.csproj.CopyComplete
 C:\Users\frana\source\repos\AplicacaoWeb\AplicacaoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Teste\Abrir.cshtml.g.cs
 C:\Users\frana\source\repos\AplicacaoWeb\AplicacaoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Produto\Abrir.cshtml.g.cs
+C:\Users\frana\source\repos\AplicacaoWeb\AplicacaoWeb\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\frana\source\repos\AplicacaoWeb\AplicacaoWeb\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\frana\source\repos\AplicacaoWeb\AplicacaoWeb\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\frana\source\repos\AplicacaoWeb\AplicacaoWeb\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\frana\source\repos\AplicacaoWeb\AplicacaoWeb\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\frana\source\repos\AplicacaoWeb\AplicacaoWeb\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\frana\source\repos\AplicacaoWeb\AplicacaoWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\frana\source\repos\AplicacaoWeb\AplicacaoWeb\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\frana\source\repos\AplicacaoWeb\AplicacaoWeb\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\frana\source\repos\AplicacaoWeb\AplicacaoWeb\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\frana\source\repos\AplicacaoWeb\AplicacaoWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\frana\source\repos\AplicacaoWeb\AplicacaoWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
